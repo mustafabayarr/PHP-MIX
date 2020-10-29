@@ -23,11 +23,11 @@ function myTest2(){
     $x++;
 }
 
-myTest(); // 0
+myTest2(); // 0
 echo "<br>";
-myTest(); // 1
+myTest2(); // 1
 echo "<br>";
-myTest(); // 2
+myTest2(); // 2
 echo "<br>";
 
 ?>
